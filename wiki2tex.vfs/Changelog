@@ -1,0 +1,2 @@
+# $Id: Changelog 16 2007-01-28 12:45:16Z tlu $
+0.4 Wszystkie (=+)(.+)(=+) zamieniane s? na \(sub(sub))section*{\2}
