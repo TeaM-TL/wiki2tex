@@ -4,7 +4,7 @@ Konwerter stron dokuwiki do LaTeXa.
 ## Inspiracja
 dokumentacja powstała w Dokuwiki, a klient zażądał w PDF.
 
-# Uruchomienie
+## Uruchomienie
 wiki2tex nazwa_strony.txt
 
 ## Wymagania
